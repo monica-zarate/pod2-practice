@@ -31,7 +31,8 @@
     "id": 5,
     "title": "You Rock My World",
     "artist": "Michael Jackson",
-    "releaseDate": "2001"
+    "releaseDate": "2001",
+    "lyricsFile": "you-rock-my-world.txt"
     
   }
   {
