@@ -26,12 +26,19 @@
     "title": "Wait for the Moment",
     "artist": "Vulfpeck",
     "releaseDate": "2017"
-  }
+  },
   {
     "id": 5,
     "title": "You Rock My World",
     "artist": "Michael Jackson",
     "releaseDate": "2001"
     
+  }
+  {
+    "id": 6,
+    "title": "I'm Yours",
+    "artist": "Jason Mraz",
+    "releaseDate": "2008",
+    "lyricsFile": "i'm-yours.txt"
   }
 ]
