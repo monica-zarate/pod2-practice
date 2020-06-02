@@ -1,8 +1,0 @@
-@import '../styles/base.scss';
-
-.lyrics-page {
-  @include container;
-  &__lyrics {
-    white-space: pre-wrap;
-  }
-}
