@@ -41,5 +41,11 @@
     "artist": "Jason Mraz",
     "releaseDate": "2008",
     "lyricsFile": "i'm-yours.txt"
-  }
+  },
+    {
+      "id": 7,
+      "title": "D4L",
+      "artist": "Drake",
+      "releaseDate": "2020"
+    }
 ]
